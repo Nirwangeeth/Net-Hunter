@@ -1,0 +1,4 @@
+cryptography==41.0.7
+fade==0.0.9
+python_nmap==0.7.1
+rich==13.7.1

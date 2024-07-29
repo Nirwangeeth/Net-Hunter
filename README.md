@@ -1,4 +1,4 @@
-<h1 align=center> IP location tracker </h1>
+<h1 align=center> Net-Hunter </h1>
 
 ![Net-Hunter(interface)](/Net-Hunter(interface).png)
 
